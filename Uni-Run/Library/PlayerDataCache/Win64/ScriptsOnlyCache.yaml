@@ -71,29 +71,29 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1654}
+      Script: {instanceID: 1648}
     - Class: 114
-      Script: {instanceID: 1776}
+      Script: {instanceID: 1770}
     - Class: 114
-      Script: {instanceID: 2224}
+      Script: {instanceID: 2218}
     - Class: 114
-      Script: {instanceID: 2622}
+      Script: {instanceID: 2616}
     - Class: 114
-      Script: {instanceID: 2756}
+      Script: {instanceID: 2750}
     - Class: 114
-      Script: {instanceID: 2770}
+      Script: {instanceID: 2764}
     - Class: 114
-      Script: {instanceID: 2996}
+      Script: {instanceID: 2990}
     - Class: 114
-      Script: {instanceID: 3220}
+      Script: {instanceID: 3214}
     - Class: 114
-      Script: {instanceID: 3758}
+      Script: {instanceID: 3752}
     - Class: 114
-      Script: {instanceID: 3940}
+      Script: {instanceID: 3934}
     - Class: 114
-      Script: {instanceID: 4250}
+      Script: {instanceID: 4244}
     - Class: 114
-      Script: {instanceID: 4312}
+      Script: {instanceID: 4306}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -656,4 +656,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Main.unity
-  playerPath: C:/Users/YE/Documents/GitHub/Uni-Run/Uni-Run.exe
+  playerPath: "C:/Users/ybcho/OneDrive/\uBB38\uC11C/GitHub/build/Uni-Run/Uni-Run.exe"

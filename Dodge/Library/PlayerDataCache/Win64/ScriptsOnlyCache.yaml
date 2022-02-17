@@ -547,4 +547,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/YE/Documents/GitHub/Dodge/Dodge.exe
+  playerPath: "C:/Users/ybcho/OneDrive/\uBB38\uC11C/GitHub/build/Dodge/Dodge.exe"
