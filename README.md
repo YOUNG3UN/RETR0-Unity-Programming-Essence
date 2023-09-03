@@ -1,11 +1,13 @@
 # RETR0-Unity-Programming-Essence
 
-도서 <레트로의 유니티 게임 프로그래밍 에센스> 참고
+도서 <레트로의 유니티 게임 프로그래밍 에센스> 클론 코딩
 
-# 1. Dodge (★☆☆)
+## 1. Dodge (★☆☆)
 사방에서 날아오는 총알을 가능한 한 피하는 탄막 슈팅 게임
 
-<img width="1280" alt="Dodge" src="https://user-images.githubusercontent.com/77961304/155693676-e52e2e7b-5c34-48aa-b3f6-9452d9b22e36.png">
+<center>
+<img width="800" alt="Dodge" src="https://user-images.githubusercontent.com/77961304/155693676-e52e2e7b-5c34-48aa-b3f6-9452d9b22e36.png">
+</center>
 
 1. 미션
 - 플레이어를 조작하여 가능한 한 오랫동안 총알을 피하기
@@ -22,10 +24,12 @@
 - 움직이기: 키보드 방향키 또는 WASD 키
 - (사망 후) 게임 재시작: R 키
 
-# 2. Uni-Run (★★☆)
+## 2. Uni-Run (★★☆)
 2D 러너 게임
 
-<img width="1280" alt="Uni-Run_1" src="https://user-images.githubusercontent.com/77961304/155694218-6e541a7f-7300-423a-b824-daabb27a02bf.png">
+<center>
+<img width="800" src="https://user-images.githubusercontent.com/77961304/155694218-6e541a7f-7300-423a-b824-daabb27a02bf.png">
+</center>
 
 1. 미션
 - 계속 뛰면서 발판 사이를 점프해 낭떠러지로 떨어지지 않고 살아남기
